@@ -176,4 +176,4 @@ When building web pages, HTML provides the structure, CSS adds the styling, and 
 
 ---
 
-Feel free to play around with the code examples and see how modifying the elements impacts the output! If you have any specific questions or want to learn more about any of these topics, let me know!
+ 
